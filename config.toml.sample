@@ -1,0 +1,13 @@
+[network]
+
+  [network.local]
+  address = "127.0.0.1:50211"
+  node_account = ""
+
+  [network.testnet]
+  address = ""
+  node_account = ""
+
+  [network.mainnet]
+  address = ""
+  node_account = ""
